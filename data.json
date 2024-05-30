@@ -1,38 +1,38 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Halatedzi Siaga",
+        "photo" : "images/User1.jpg",
+        "phone" : "0769330044",
+        "email" : "Siagahalatedzi496@gmail.com"
     },
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "institutionName" : "University of the Free State",
+        "photo" : "images/university-of-the-free-state-office.jpg",
+        "description" : "A Bachelor of Commerce specializing in Economics is a degree program focused on the study of economic principles within the context of business. It covers topics such as microeconomics, macroeconomics, and econometrics, preparing graduates for careers in finance, consulting, government, and research."
     },
     "foreignLanguage" : {
-        "language" : "",
+        "language" : "Shona",
         "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+            "englishPhrase" : "Good Morning",
+            "foreignLanguage" : "Mangwanani akanaka"
         },
         {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+            "englishPhrase" : "Have a lovely day",
+            "foreignLanguage" : "Iva nezuva rakanaka"
         }]
     },
     "favouriteSubjects" : [
         {
-            "name" : "",
-            "description" : ""
+            "name" : "Agile Rapid Skill Acquisition",
+            "description" : "A fast, adaptable approach to learning, utilizing agile principles for quick skill acquisition through practical application and continuous improvement."
         },
         {
-            "name" : "",
-            "description" : ""
+            "name" : "Full Stack Web Development",
+            "description" : "Involves building both the front-end and back-end of web applications. Developers proficient in full stack development are skilled in both client-side and server-side technologies, enabling them to create fully functional and dynamic websites or web applications."
         },
         {
-            "name" : "",
-            "description" : ""
+            "name" : "Engeneering Business System for 4IR",
+            "description" : "Integrating engineering and Fourth Industrial Revolution technologies to optimize business processes."
         }
     ]
 }
