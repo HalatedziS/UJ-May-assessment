@@ -1,13 +1,13 @@
 {
     "user" : {
         "fullName" : "Halatedzi Siaga",
-        "photo" : "./images/User1.jpg",
+        "photo" : "./public/User1.jpg",
         "phone" : "0769330044",
         "email" : "Siagahalatedzi496@gmail.com"
     },
     "education" : {
         "institutionName" : "University of the Free State",
-        "photo" : "./images/university-of-the-free-state-office.jpg",
+        "photo" : "./public/university-of-the-free-state-office.jpg",
         "description" : "A Bachelor of Commerce specializing in Economics is a degree program focused on the study of economic principles within the context of business. It covers topics such as microeconomics, macroeconomics, and econometrics, preparing graduates for careers in finance, consulting, government, and research."
     },
     "foreignLanguage" : {
